@@ -57,30 +57,35 @@ market_sim/
 ## Features
 
 ### Market Simulation
+
 - Real-time market simulation with configurable parameters
 - Multiple asset types and trading mechanisms
 - Price formation and order book management
 - Trading agent framework with customizable strategies
 
 ### Trading Mechanisms
+
 - Stock trading with various order types
 - Options and warrants simulation
 - Short selling and margin trading
 - Custom mechanism creation framework
 
 ### High-Frequency Trading
+
 - Ultra-low latency framework
 - Order execution optimization
 - Market making strategies
 - Statistical arbitrage
 
 ### Blockchain Integration
+
 - Ethereum smart contract integration
 - Consensus mechanism simulation
 - Cross-chain trading strategies
 - DeFi protocol integration
 
 ### Learning Environment
+
 - Interactive tutorials and scenarios
 - Strategy backtesting framework
 - Performance analytics
@@ -89,11 +94,13 @@ market_sim/
 ## Getting Started
 
 1. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 2. Run tests:
+
 ```bash
 # Run all tests
 pytest
